@@ -34,8 +34,8 @@ Prerequisites
 How to Run the Program
 1. Clone the repository:
    ```bash
-git clone https://github.com/Joshua-Bambe/income-budgeting-program.git
-cd income-budgeting-program
+   git clone https://github.com/Joshua-Bambe/income-budgeting-program.git
+   cd income-budgeting-program
 
 2. Compile the Program:
    g++ main.cpp -o budget
