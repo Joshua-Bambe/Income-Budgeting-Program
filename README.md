@@ -2,15 +2,15 @@
 A C++ console application to help users track their income and expenses, set savings goals, and view budget summaries. All data is saved to a local file.
 
 ## Features
-Add income entries with descriptions
-Add expense entries with descriptions
-View current balanace
-View income/expense summaries
-Set a savings goal and track progress
-Auto-load and saves data from/to datasheet.txt
+- Add income entries with descriptions
+- Add expense entries with descriptions
+- View current balanace
+- View income/expense summaries
+- Set a savings goal and track progress
+- Auto-load and saves data from/to datasheet.txt
 
 ## Project Structure
-main.cpp - Main logic behind application
+main.cpp - Main logic behind application |
 datasheet.txt - Data file that stores all transactions
 
 ## How It Works
